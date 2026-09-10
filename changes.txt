@@ -1,1 +1,2 @@
 A new file with some contents
+Some changes to this file with some contents
